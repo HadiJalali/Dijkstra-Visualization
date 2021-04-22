@@ -16,8 +16,10 @@ I have added two test cases for demonstration. If you want to add another test c
 - in the first line type starting node
 - in the next line add topology in JSON format, for example:
 
+```
 A
 {"A": [0,1,2], "B": [1,0,0], "C": [2,0,0]}
+```
 
 A, B, C are our nodes, and the list in front of them are their wights ordered by the English alphabet. 0 means there is no connection.
 
