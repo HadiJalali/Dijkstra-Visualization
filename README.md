@@ -1,9 +1,9 @@
 Requirements:
 - Install Python 3+ (I used 3.9 64bit) and add its path to the system environment
 - use pip script to install the following packages: (ex .: python -m pip install networkx)
-networkx
-matplotlib
-jupyter
+    - networkx
+    - matplotlib
+    - jupyter
 
 To Run:
 - Open a terminal and navigate to the project root folder
